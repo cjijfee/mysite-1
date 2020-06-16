@@ -1,2 +1,2 @@
 
-console.log('初光楠！')
+console.log('初光楠喝酒！')
